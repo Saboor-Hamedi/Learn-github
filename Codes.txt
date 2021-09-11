@@ -1,0 +1,52 @@
+-- Check who is logged in 
+	- git config user.name
+
+-- Add remote
+	- git remote add origin https://github.com/Saboor-Hamedi/Learn-github.git
+
+-- Show hidden files
+	-ls -a
+
+-- Create txt
+	-touch test.txt
+
+-- Remove txt 
+	-rm test.txt
+
+-- Create folder 
+	-mkdir test
+
+-- Remove folder 
+	-rm -r test
+
+--To summarize:
+
+	-  -rm is a command.
+	-  -r is a flag.
+	-   test is an argument.
+
+-- Remove all files with the same extension
+	-rm*.png, jpg, gif, txt and so on .....
+
+-- Remove all files which start is test
+	-rm *test
+
+-- Open explorer on especific directory
+	-explorer 'F:\github\practice1'
+
+-- print text from files
+	-cat test.txt
+	 --output, text inside
+
+-- Search for test 
+	-grep 'keyword' test.txt
+-- Write on README.md
+	-nano README.md
+
+-- Add link on README.md
+	-[a link] (https://www.google.com)
+
+
+
+
+
