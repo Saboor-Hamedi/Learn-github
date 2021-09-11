@@ -46,6 +46,8 @@
 -- Add link on README.md
 	-[a link] (https://www.google.com)
 
+-- Get link of your current repp
+	-git config --get remote.origin.url
 
 
 
