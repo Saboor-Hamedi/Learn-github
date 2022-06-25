@@ -1,0 +1,4 @@
+--make file
+	--touch filename.txt
+--delete file
+	--rm filename.txt
