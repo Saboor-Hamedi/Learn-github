@@ -51,8 +51,13 @@
 
 -- Rename folder 
 	-mv folder1 folder2
--- Rename Branch name
-	
+
+-- Delete branch locally
+	git branch -d localBranchName
+-- Writing throught cmd on .txt
+
+	-echo "Hello world, I amm saboor, I want o help you
+	with github, so feel free to ask me any question. See you soon." > newfile.txt
 
 
 
