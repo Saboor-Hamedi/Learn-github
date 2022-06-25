@@ -49,6 +49,11 @@
 -- Get link of your current repp
 	-git config --get remote.origin.url
 
+-- Rename folder 
+	-mv folder1 folder2
+-- Rename Branch name
+	
+
 
 
 
